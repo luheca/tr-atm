@@ -21,7 +21,9 @@ This uses a Python backend.
 Create and activate a virtual environment.
 
 `cd tr-atm-backend`
+
 `python3 -m venv ~/tr-atm-venv`
+
 `source ~/tr-atm-venv/bin/activate`
 
 Install required dependencies.
@@ -41,6 +43,7 @@ Run the back-end server.
 Install required dependencies.
 
 `cd tr-atm-frontend`
+
 `npm install`
 
 

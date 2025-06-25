@@ -46,9 +46,17 @@ Install required dependencies.
 
 `npm install`
 
-
 Run the front-end.
+
 `npm run dev`
 
 Visit http://localhost:3000/
+
+### Demo Accounts
+
+The following PINs exist in the initial database:
+- **1234**: Luis Herrera's Visa
+- **2345**: Cuzco Dog's Master Card
+- **3456**: Pepper Cat's Pulse
+
 
